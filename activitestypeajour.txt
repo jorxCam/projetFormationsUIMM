@@ -1,0 +1,352 @@
+//1 referent digitale
+UPDATE `formation` SET `activitetype`='   
+RS5599
+Réaliser des applications web à l’aide d’un système de gestion de contenus (CMS)
+-Utiliser Wordpress
+-Naviguer dans l’interface Wordpress sur le site wordpress.com, version en ligne du CMS
+-Identifier les langages des paragraphes de code (HTML, CSS et PHP) ainsi que leur fonction
+Installer Wordpress sur son ordinateur
+-Télécharger la version locale de Wordpress à partir de wordpress.org
+-Installer le package Bitnami qui réunit le serveur Apache, la base de donnée (MySQL) et l’interface d’administration de la base de données (PhPMyAdmin)
+-Identifier le rôle de ces différents éléments
+-Faire migrer un site existant vers Wordpress à partir du plugin Duplicator
+Administrer et gérer un site participatif
+-Créer et gérer les différents types d’utilisateurs
+-Gérer les commentaires
+Travailler avec les thèmes
+-Choisir un thème et l’intégrer
+-Planifier l’arborescence du site
+-Créer un menu
+-Créer des articles et des pages
+-Créer des catégories et des tags
+Modifier et personnaliser les thèmes
+-Déclarer et installer un thème enfant
+-Modifier le CSS
+Ajouter des extensions
+-Choisir les widgets et plugins adaptés dans la base disponible
+-Ajouter des widgets
+-Ajouter des plugins
+-Créer un plugin
+Sécuriser son site
+-Faire des sauvegardes
+-Créer des pages protégées par mot de passe
+-Créer des accès utilisateurs
+Exploiter son site
+-Optimiser le référencement de son site pour les moteurs de recherches (SEO)
+-Analyser le trafic de son site à partir de Google Analytics
+Mettre en ligne son site
+-Choisir une hébergeur
+-Utiliser un FTP
+-Héberger son site sur un serveur mutualisé ou un serveur dédié
+RS5487
+Gérer un projet en mobilisant les méthodes agiles
+- Réaliser un diagnostic de l’environnement, des conditions matérielles, financières et humaines au regard des objectifs du projet, afin d’évaluer la pertinence d’une approche agile dans la gestion du projet.
+- Sélectionner la méthode de gestion de projet agile adaptée à un projet spécifique, à partir du diagnostic préalablement réalisé, afin de garantir l’adéquation entre la méthode utilisée et la réalisation des objectifs.
+- Préparer le déploiement du projet en concevant les artefacts adaptées et en programmant les rituels afin de garantir la communication et la transparence entre les différentes parties prenantes.
+- Animer les rituels d’un projet en méthode agile, en mobilisant les ressources sélectionnées afin de répondre de façon adaptée aux besoins potentiellement évolutifs du client.
+' WHERE id=1
+
+ 
+//2 DÉVELOPPEUR WEB ET WEB MOBILE
+UPDATE `formation` SET `activitetype`='
+RNCP31114BC01
+Analyser et définir la stratégie d’un système d’information
+- Maquetter une application.
+- Réaliser une interface utilisateur web statique et adaptable.
+- Développer une interface utilisateur web dynamique.
+- Réaliser une interface utilisateur avec une solution de gestion de 
+contenu ou e-commerce.
+RNCP31114BC02
+Assurer la gestion du Système d’information
+- Créer une base de données.
+- Développer les composants d’accès aux données.
+- Développer la partie back-end d’une application web ou web mobile.
+- Elaborer et mettre en œuvre des composants dans une application de 
+gestion de contenu ou e-commerce.
+' WHERE id=2
+
+ 
+//3 TECHNICIEN SUPÉRIEUR SYSTÈMES ET RÉSEAUX Spécialisation Analyste Cybersécurité
+UPDATE `formation` SET `activitetype`='
+RNCP31115BC01
+Assister les utilisateurs en centre de services
+- Mettre en service un équipement numérique. 
+- Assister les utilisateurs sur leurs équipements numériques. 
+- Gérer les incidents et les problèmes. 
+- Assister à l’utilisation des ressources collaboratives
+RNCP31115BC02
+Maintenir, exploiter et sécuriser une infrastructure centralisée
+- Maintenir et exploiter le réseau local et la téléphonie.
+- Sécuriser les accès à internet.
+- Maintenir et exploiter un environnement virtualisé.
+- Maintenir et exploiter un domaine Active Directory et les serveurs Windows.
+- Maintenir et exploiter un serveur Linux
+RNCP31115BC03
+Maintenir et exploiter une infrastructure distribuée et contribuer à sa sécurisation
+- Configurer les services de déploiement et de terminaux clients légers.
+- Automatiser les tâches à l’aide de scripts.
+- Maintenir et sécuriser les accès réseaux distants.
+- Superviser l’infrastructure.
+- Intervenir dans un environnement de Cloud Computing.
+- Assurer sa veille technologique
+RNCP31115BC04
+Certificat complémentaires de spécialisation Linux
+- Administrer les serveurs Linux :
+- Installer, paramétrer un service sous Linux.
+- S’appuyer sur les communautés d’utilisateurs.
+- Mettre une application en production.
+- Développer des scripts d’automatisation.
+- Superviser les serveurs Linux
+RS5021
+Analyser les incidents de sécurité détectés
+- L’élaboration de l’analyse des événements de sécurité
+- L’analyse et gestion des incidents de sécurité
+- L’élaboration et mise en œuvre d’une stratégie de veille - technologique pour optimiser la gestion des risques
+RS5020
+Surveiller un système d’information sur des critères de sécurité informatique - L’analyse des métiers du commanditaire et évaluation globale de la vulnérabilité de son système d’information
+- L’élaboration et mise en œuvre d’une stratégie de collecte d’événements en provenance du système d’information du commanditaire
+- L’élaboration et mise en œuvre d’une stratégie de veille technologique pour renforcer la gestion des risques
+' WHERE id=3
+
+ 
+//4 CONCEPTEUR DESIGNER UI
+UPDATE `formation` SET `activitetype`='
+RNCP35634BC01 
+Concevoir les éléments graphiques d’une interface et de supports de communication
+- Réaliser des illustrations, des graphismes et des visuels
+- Concevoir des interfaces graphiques et des prototypes
+- Réaliser une animation pour différents supports de diffusion
+- Créer des supports de communication
+RNCP35634BC02
+Contribuer à la gestion et au suivi d’un projet de communication numérique
+- Mettre en œuvre une stratégie webmarketing
+- Assurer une veille professionnelle et développer les compétences collectives de son équipe
+RNCP35634BC03
+Réaliser, améliorer et animer des sites web
+- Intégrer des pages web
+- Adapter des systèmes de gestion de contenus
+- Optimiser en continu un site web ou une interface
+' WHERE id=4
+
+ 
+//5 CONCEPTEUR DEVELOPPEUR D’APPLICATION
+UPDATE `formation` SET `activitetype`='
+RNCP35594BC01
+Concevoir et développer des composants d’interface utilisateur en intégrant les recommandations de sécurité
+- Maquetter une application.
+- Développer une interface utilisateur de type desktop.
+- Développer des composants d’accès aux données.
+- Développer la partie front-end d’une interface utilisateur web.
+- Développer la partie back-end d’une interface utilisateur web.
+RNCP35594BC02
+Concevoir et développer la persistance des données en intégrant les recommandations de sécurité
+- Concevoir une base de données.
+- Mettre en place une base de données.
+- Développer des composants dans le langage d’une base de données.
+RNCP35594BC03
+Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité
+- Collaborer à la gestion d’un projet informatique et à l’organisation de l’environnement de développement.
+- Concevoir une application.
+- Développer des composants métier.
+- Construire une application organisée en couches.
+- Développer une application mobile.
+- Préparer et exécuter les plans de tests d’une application.
+- Préparer et exécuter le déploiement d’une application.
+' WHERE id=5
+
+ 
+//6 ADMINISTRATEUR SYSTÈMES, RÉSEAUX ET BASES DE DONNÉES
+UPDATE `formation` SET `activitetype`='
+RNCP35594BC01
+Administrer le Système d’Information
+- Assurer l’exploitation du Système d’Information (SI) 
+- Concevoir l’infrastructure d’une plateforme virtuelle
+- Maintenir en conditions opérationnelles l’infrastructure de l’entreprise 
+- Identifier rapidement les systèmes qui nécessitent des correctifs 
+- Configurer les équipements réseaux pour 
+- Administrer les bases de données 
+- Mesurer et analyser les performances
+- Améliorer les performances des bases de données 
+- Rationnaliser les tâches quotidiennes 
+- Faciliter la résolution des problèmes 
+- Automatiser les procédures de sauvegarde
+RNCP35594BC02
+Assurer la gestion du Système d’information
+- Gérer les évolutions des infrastructures Informatiques
+- Assurer l’évolution des équipements en tenant compte des technologies émergentes
+- Comparer les solutions pour faire des propositions de renouvellement
+- Ordonnancer le plan de déploiement 
+- Maquetter les solutions de déploiements pour le test et la validation des solutions
+- Attribuer les ressources informatiques 
+- Superviser l’infrastructure informatique et le patrimoine applicatif 
+- Recenser les ressources de l’infrastructure 
+- Migrer une architecture système ou réseau 
+- Elaborer un tableau de bord sur la résolution des tickets d’incidents
+- Résoudre les tickets de niveau 3 & 4 en intervenant sur place ou à distance 
+- Concevoir un service numérique dans le but de réduire empreinte carbone
+RNCP35594BC03
+Définir la politique de sécurisation du Système d’Information
+- Faire un état des lieux des risques de sécurité identifiables au sein du SI
+- Connaître et appliquer les normes ISO 27001
+- Configurer des solutions de sécurité classiques
+- Appliquer les techniques déployées afin de sécuriser les transactions numériques
+- Appliquer les procédures de sécurité liées aux accès physiques et logiques des données 
+- Mettre en place une gestion unique et commune des terminaux mobiles
+- Mettre en œuvre des règles et processus de sécurité
+- Déployer des éléments passifs de protection systématique ou actifs 
+- Evaluer les perturbations de services grâce aux alertes émises par les sondes
+- Déployer des solutions automatisées de mise à jour et de correctifs
+RNCP35594BC04
+Communiquer avec tous les acteurs internes ou externes au service informatique
+- Collecter des informations auprès de spécialistes techniques et d’utilisateurs
+- Concevoir la documentation technique, en français et en anglais
+- Former les équipes supports sur l’utilisation des outils
+- Identifier les compétences techniques attendues
+- Conduire un entretien annuel en contrôlant l’atteinte des objectifs fixés
+- Mettre en place des outils collaboratifs pour transmettre des informations
+- Déléguer les tâches de niveau 1 & 2 à réaliser
+' WHERE id=6
+
+ 
+//7 EXPERT INFORMATIQUE ET SYSTÈME D’INFORMATION : EPSI
+UPDATE `formation` SET `activitetype`='
+RNCP35584BC01
+Analyser et définir la stratégie d’un système d’information
+- Mettre en place un dispositif de veille technologique en français et en anglais
+- Collecter les besoins des directions métiers de l’entreprise afin de bâtir le projet de développement du SI
+- Cartographier un système d’information existant selon 4 niveaux
+- Identifier les informations sensibles, les risques, les zones critiques 
+- Elaborer la stratégie informatique de l’entreprise et les besoins en cybersécurité
+- Présenter des propositions de projet d’évolution de S.I. au comité de direction
+RNCP35584BC02
+Manager un projet informatique avec agilité en collaboration avec les parties prenantes
+- Identifier l’ensemble des étapes de réalisation du système d’information
+- Concevoir les cahiers des charges technique et fonctionnel d’un projet 
+- Gérer un projet agile en utilisant les méthodes et outils adaptés 
+- Etablir des tableaux de bord de suivi de performance 
+- Piloter les prestataires extérieurs éventuels gérant les ressources informatiques
+- Conduire une équipe projet en diffusant les fondamentaux de l’agilité 
+- Communiquer avec l’équipe en adoptant les modes de communication adéquats 
+- Animer des réunions à distance afin de maintenir une dynamique de groupe
+- Concevoir un processus de partage d’information afin de faciliter la collaboration
+- Accompagner l’équipe dans l’appropriation du travail à distance ou du télétravail
+RNCP35594BC03
+Piloter l’informatique décisionnelle d’un S.I. (big data & business intelligence)
+- Collecter les besoins en données des directions métiers 
+- Définir une architecture business intelligence 
+- Définir une stratégie big data 
+- Proposer des modèles statistiques et de data science (machine Learning)
+- Organiser les sources de données (data visualisation) 
+- Définir les données de référence de l’entreprise 
+- Créer un entrepôt unique à partir du référentiel de données établi
+- Assurer la qualité des données en utilisant les outils de gestion de la qualité de données 
+- Appliquer les procédures de sécurité établies par le / la RSSI 
+RNCP35594BC04
+Concevoir et développer des solutions applicatives métier et spécifiques (mobiles, embarquées et ERP)
+- Concevoir une architecture applicative selon la complexité du système d’information
+- Développer une application adéquate selon la stratégie applicative de l’environnement
+- Développer une solution applicative intégrée 
+- Effectuer les tests de la solution applicative paramétrée ou développée
+- Appliquer l’intégration continue dans le cadre du développement d’une application
+- Vérifier la conformité d’une solution
+- Conduire le changement auprès des métiers lors du déploiement d’une solution
+RNCP35594BC05
+Concevoir et sécuriser des solutions d’infrastructure virtualisées et cloud
+- Assurer la migration de l’infrastructure vers une solution virtualisée dans le cloud
+- Concevoir des procédures et des outils de surveillance permettant la haute disponibilité
+- Maintenir en condition opérationnelle les infrastructures virtualisées
+- Assurer une maintenance évolutive et corrective 
+- Mettre en place une plateforme de communication sécurisée entre les solutions clou
+- Administrer une plateforme Workplace digitale de type EMM 
+' WHERE id=7
+
+ 
+//8 EXPERT INFORMATIQUE ET SYSTÈME D’INFORMATION – WIS
+UPDATE `formation` SET `activitetype`='
+RNCP35584BC01
+Analyser et définir la stratégie d’un système d’information
+- Mettre en place un dispositif de veille technologique en français et en anglais
+- Collecter les besoins des directions métiers de l’entreprise afin de bâtir le projet de développement du SI
+- Cartographier un système d’information existant selon 4 niveaux
+- Identifier les informations sensibles, les risques, les zones critiques 
+- Elaborer la stratégie informatique de l’entreprise et les besoins en cybersécurité
+- Présenter des propositions de projet d’évolution de S.I. au comité de direction
+RNCP35584BC02
+Manager un projet informatique avec agilité en collaboration avec les parties prenantes
+- Identifier l’ensemble des étapes de réalisation du système d’information
+- Concevoir les cahiers des charges technique et fonctionnel d’un projet 
+- Gérer un projet agile en utilisant les méthodes et outils adaptés 
+- Etablir des tableaux de bord de suivi de performance 
+- Piloter les prestataires extérieurs éventuels gérant les ressources informatiques
+- Conduire une équipe projet en diffusant les fondamentaux de l’agilité 
+- Communiquer avec l’équipe en adoptant les modes de communication adéquats 
+- Animer des réunions à distance afin de maintenir une dynamique de groupe
+- Concevoir un processus de partage d’information afin de faciliter la collaboration
+- Accompagner l’équipe dans l’appropriation du travail à distance ou du télétravail
+RNCP35594BC03
+Piloter l’informatique décisionnelle d’un S.I. (big data & business intelligence
+- Collecter les besoins en données des directions métiers 
+- Définir une architecture business intelligence 
+- Définir une stratégie big data 
+- Proposer des modèles statistiques et de data science (machine Learning)
+- Organiser les sources de données (data visualisation) 
+- Définir les données de référence de l’entreprise 
+- Créer un entrepôt unique à partir du référentiel de données établi
+- Assurer la qualité des données en utilisant les outils de gestion de la qualité de données 
+- Appliquer les procédures de sécurité établies par le / la RSSI 
+RNCP35594BC04 -option
+Concevoir et développer des solutions applicatives métier et spécifiques (mobiles, embarquées et ERP)
+- Concevoir une architecture applicative selon la complexité du système d’information
+- Développer une application adéquate selon la stratégie applicative de l’environnement
+- Développer une solution applicative intégrée 
+- Effectuer les tests de la solution applicative paramétrée ou développée
+- Appliquer l’intégration continue dans le cadre du développement d’une application
+- Vérifier la conformité d’une solution
+- Conduire le changement auprès des métiers lors du déploiement d’une solution
+RNCP35594BC05 -option
+Concevoir et sécuriser des solutions d’infrastructure virtualisées et cloud
+- Assurer la migration de l’infrastructure vers une solution virtualisée dans le cloud
+- Concevoir des procédures et des outils de surveillance permettant la haute disponibilité
+- Maintenir en condition opérationnelle les infrastructures virtualisées
+- Assurer une maintenance évolutive et corrective 
+- Mettre en place une plateforme de communication sécurisée entre les solutions clou
+- Administrer une plateforme Workplace digitale de type EMM 
+' WHERE id=8
+
+ 
+//9 INGÉNIEUR SYSTÈMES, RÉSEAUX ET CYBERSÉCURITÉ
+UPDATE `formation` SET `activitetype`='
+RNCP36121BC01
+Gérer un projet international
+- Identifier les parties prenantes afin d’établir une communication et un rapport de confiance immédiat
+- Choisir la méthode de gestion de projet adaptée au contexte et au client
+- Identifier la Core Team afin d’être à même de débuter le travail au plus vite
+- Rédiger le plan de management de projet afin de pouvoir le partager avec le client et partir sur des bases communes
+- Estimer les durées des différentes tâches afin de réaliser un planning de projet
+- Estimer les coûts de chaque tâche afin de définir le coût prévisionnel estimé du projet
+- Définir les indicateurs suivis afin de partager le tableau de bord projet
+RNCP36121BC02
+Recueillir et analyser les exigences du client
+- Identifier les problèmes ou manques à l’origine du besoin afin de mieux comprendre ce dernier
+- Identifier les différents types d’utilisateurs afin de prendre en compte les spécificités
+- Extraire d’un cahier des charges les exigences du client afin de pouvoir les tracer de manière unitaire et être sûr de ne pas en oublier
+- Identifier les enjeux afin de mieux cerner la problématique du client
+- Identifier les exigences connexes afin de répondre au besoin du client
+- Identifier, gérer et suivre les contraintes qualité afin de respecter les impératifs qualité
+- Identifier, gérer et suivre les contraintes juridiques et légales afin de respecter les impératifs juridiques et légaux
+- Reformuler la demande afin de s’assurer de la bonne compréhension du besoin
+RNCP36121BC03
+Concevoir l’architecture, réaliser et déployer la solution technique
+- Concevoir, de manière autonome, une architecture générale sécurisée (MFA, Workload, DMZ, gestion des identités, etc.) d’un système d’informations répondant aux spécifications techniques et fonctionnelles afin de répondre à l’ensemble des exigences du client
+- Concevoir, de manière autonome, une architecture générale sécurisée d’un ICS ( Industrial Control System) en réseau (HAN, NAN, BLÊME) répondant aux spécifications techniques et fonctionnelles afin de répondre à l’ensemble des exigences du client
+- Intégrer des objets connectés (IOT) sécurisés dans une architecture ICS afin d’obtenir des données plus riches
+- Identifier, au sein d’une architecture de système informatique, les données et services critiques afin de déterminer lesquels peuvent être externalisés (IaaS, PaaS, SaaS, CaaS)
+- Adapter en CLOUD (privé, public, hybride et multicloud) une architecture existante afin d’externaliser une architecture "On Premise«
+RNCP36121BC04
+Maintenir le système en condition opérationnelle et de sécurité
+- Définir et rédiger la stratégie de maintenance curative afin de garantir la gestion des dysfonctionnements du système informatique sur la durée
+- Mettre en œuvre des outils de suivi des faits techniques et des demandes d’évolution afin de suivre les futures modifications à réaliser
+- Corriger des faits techniques afin d’améliorer la qualité du système informatique
+- Proposer des solutions de contournement à des faits techniques afin de permettre au client d’utiliser le système informatique lorsqu’une correction n’est pas possible ou pas réalisable rapidement
+- Maintenir une base de connaissances afin de partager les informations avec l’ensemble des parties prenantes
+' WHERE id=9

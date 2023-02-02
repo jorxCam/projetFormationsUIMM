@@ -1,0 +1,29 @@
+.navbar {
+    width: 100%;
+    height: 200px;
+    background-color: #005b7e;
+    overflow: auto;
+}
+
+/* Navbar links */
+.navbar a {
+
+    text-align: left;
+    padding: 2px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Navbar links on mouse-over */
+.navbar a:hover {
+    background-color: #e40114;
+}
+#bouton_nav{
+    margin-left: 13px;
+    justify-content: space-between;
+    align-items: center;
+}
+.separateur{
+    font-size: 13px;
+}

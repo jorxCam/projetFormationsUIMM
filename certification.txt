@@ -1,0 +1,3 @@
+UPDATE `formation` SET `certif`='2 RS' WHERE id=1;
+UPDATE `formation` SET `certif`='1 RNCP / 2 RS' WHERE id=3;
+UPDATE `formation` SET `certif`='1 RNCP' WHERE id=4;
